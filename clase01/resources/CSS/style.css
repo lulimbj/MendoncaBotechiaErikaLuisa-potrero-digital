@@ -1,0 +1,62 @@
+/*
+SELECTOR ESPECIFICO para ELEMENTO UNICO
+
+#ID
+Atributo de TAG HTML que marca en el html anexo 1 UNICO ELEMENTO EN ATRIBUTO HTML"
+HTML <tag id="nombreID">
+CSS #nombreID
+
+#CLASS
+*/
+
+body{background-image: url("../multimedial/coxinha-03.png");}
+
+#title {
+	background-image: url("../multimedial/coxinha-02.png");
+	padding-top: 15px;
+	margin-block-end: 20px;
+}
+
+h2 {display: block;
+	font-size: 45px;
+	font-family: 'Orbitron';
+	margin-block-end: 0;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+	text-align: center;
+	color: #0016a6
+	}
+
+h1 {display: "block";
+	color: mediumslateblue;
+	font-size: 72px;
+	font-family: 'Righteous', 'cursive';
+	text-align: center;
+	margin-block-end: auto;
+	margin-block-start: 0px;
+	margin-inline-end: 0px;}
+
+
+
+#intro{background-color: #b8cfff;
+	height: 305px;
+	margin-block-end: 800px;
+	margin-block-start: 40px;
+	margin-inline-end: 40px;
+	margin-inline-start: 45px;
+	width: 530px;
+	text-align:left
+}
+
+#img01 {
+	height: 100px;
+	width: 100px;
+	align-content: right;}
+
+#introBox{align-content: auto;
+}
+
+#receta{font-family: 'Nerko One', cursive;
+		font-size: 40px;
+		text-align: center;}
